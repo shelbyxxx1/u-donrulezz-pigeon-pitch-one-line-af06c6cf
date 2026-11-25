@@ -1,0 +1,10 @@
+Submission: 01a214f9-05ee-73b7-b64b-32446a4e763e
+Competition: u-donrulezz-pigeon-pitch-one-line-af06c6cf (Pigeon Pitch, One Line)
+Commit: 42130e34d42f5378cd53807df053879f5020b8e5
+Repo: bundle:2d3247678eeffa2bf6f64625ec3aabc78f10277c (source-bundle entry)
+Bundle: u-donrulezz-pigeon-pitch-one-line-af06c6cf-bundle2.tar.gz
+Bundle sha256: 6b52e1382a97ac2096ce2a3f41a80d8ef506c88f2e134e3d2984a27c11e21cfc
+Submitted: 2026-11-25T23:09:54Z (2026-11-26 06:09 WIB)
+Round: 1 of 3 (cutoff 2026-11-26T04:24:51Z / 11:24 WIB)
+Result due: 2026-12-19
+Entry (137 chars): Invest in my statue-restoration startup: I'm a pigeon; I give every statue a fresh coat overnight, then invoice City Hall for the patina.
